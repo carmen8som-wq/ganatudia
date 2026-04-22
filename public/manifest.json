@@ -1,15 +1,20 @@
 {
+  "name": "GanaTuDía",
   "short_name": "GanaTuDía",
-  "name": "GanaTuDía: TaskQuest RPG",
-  "icons": [
-    {
-      "src": "https://cdn-icons-png.flaticon.com/512/6194/6194021.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ],
   "start_url": ".",
   "display": "standalone",
   "background_color": "#0f0c29",
-  "theme_color": "#0f0c29"
+  "theme_color": "#7c3aed",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
